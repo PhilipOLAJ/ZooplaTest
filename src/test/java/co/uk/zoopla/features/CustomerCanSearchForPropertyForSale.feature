@@ -49,3 +49,4 @@ Feature: Search Properties For Sale
       | M39 1XC      | £120,000    | £230,000       | Houses    | 3+     | Houses       |
       | £££          | £250,000    | £400,000       | Farm/Land | No min | Property     |
       | 123          | £120,000    | £230,000       | Flats     | 3+     | Flats        |
+      | 123          |             |                |           |        |              |
